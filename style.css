@@ -539,16 +539,21 @@ ul.menu-items li a:hover{
 		background-color: #414141;
 	}
 
+	.navigation-arrows {
+		display: none;
+	}
+
+	.some-text {
+		width: 90%;
+		margin-left: 5%;
+	}
+
 	.navigation-arrows-2 {
 		display: none;
 	}
 
 	#person-items {
 		flex-direction: column;
-	}
-
-	.right-block {
-		width: 100%;
 	}
 
 	.person-item-image {
